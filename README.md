@@ -7,5 +7,5 @@ There are 3 assignments
 
 Deadlines: 
 Assignment 1 till 15th October
-Assignment 2 till 23rd October
-Assignment 3 till 22nd November
+Assignment 2 till 25rd October
+Assignment 3 till 12nd November
