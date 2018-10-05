@@ -1,0 +1,21 @@
+Verilog is a Hardware Description Language; a textual format for describing electronic circuits and systems. Applied to electronic design, Verilog is intended to be used for verification through simulation, for timing analysis, for test analysis (testability analysis and fault grading) and for logic synthesis.
+
+The Verilog HDL is an IEEE standard - number 1364. The first version of the IEEE standard for Verilog was published in 1995. A revised version was published in 2001; this is the version used by most Verilog users. The IEEE Verilog standard document is known as the Language Reference Manual, or LRM. This is the complete authoritative definition of the Verilog HDL.
+
+A further revision of the Verilog standard was published in 2005, though it has little extra compared to the 2001 standard. SystemVerilog is a huge set of extensions to Verilog, and was first published as an IEEE standard in 2005. See the appropriate Knowhow section for more details about SystemVerilog.
+
+IEEE Std 1364 also defines the Programming Language Interface, or PLI. This is a collection of software routines which permit a bidirectional interface between Verilog and other languages (usually C).
+
+Note that VHDL is not an abbreviation for Verilog HDL - Verilog and VHDL are two different HDLs. They have more similarities than differences, however.
+A Brief History of Verilog
+The history of the Verilog HDL goes back to the 1980s, when a company called Gateway Design Automation developed a logic simulator, Verilog-XL, and with it a hardware description language.
+
+Cadence Design Systems acquired Gateway in 1989, and with it the rights to the language and the simulator. In 1990, Cadence put the language (but not the simulator) into the public domain, with the intention that it should become a standard, non-proprietary language.
+
+The Verilog HDL is now maintained by a non profit making organisation, Accellera, which was formed from the merger of Open Verilog International (OVI) and VHDL International. OVI had the task of taking the language through the IEEE standardisation procedure.
+
+In December 1995 Verilog HDL became IEEE Std. 1364-1995. A significantly revised version was published in 2001: IEEE Std. 1364-2001. There was a further revision in 2005 but this only added a few minor changes.
+
+Accellera have also developed a new standard, SystemVerilog, which extends Verilog. SystemVerilog became an IEEE standard (1800-2005) in 2005. For more details, see the Systemverilog section of KnowHow
+
+There is also a draft standard for analog and mixed-signal extensions to Verilog, Verilog-AMS.
